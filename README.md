@@ -8,10 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caijinglong)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<details>
-  
-  <summary> Buy me coffee </summary>
-  
-  <img src="https://github.com/CaiJingLong/caijinglong/assets/14145407/cac0b3bc-a10a-470c-87ae-930942fb83f6" width="33%"></img>
+## Buy me coffee
 
-</details>
+<img src="https://github.com/CaiJingLong/caijinglong/assets/14145407/cac0b3bc-a10a-470c-87ae-930942fb83f6" width="33%"></img>
+
